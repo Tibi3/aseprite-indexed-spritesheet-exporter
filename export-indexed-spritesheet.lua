@@ -36,7 +36,7 @@ function openFileDialog()
     }
 
     local file_path = dlg:label {
-        text = "Do NOT change the output file in the next dialog!!"
+        text = "Select the file path below and do NOT change the output file in the next dialog!!"
     }:file {
         id = "file_path",
         label = "Output File:",
