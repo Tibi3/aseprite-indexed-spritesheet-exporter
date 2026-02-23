@@ -1,6 +1,6 @@
 # Aseprite Indexed Spritesheet Exporter
 
-This script exports a sprite as a spritesheet and replaces the colors with the color indeces.  
+This script exports a sprite as a spritesheet and replaces the colors with the color indices.  
 Useful for implementing palette swapping in games.
 
 ## Installing
@@ -20,4 +20,4 @@ Useful for implementing palette swapping in games.
 - Click export
 
 
-If you don't want to use sprietsheets check out [aseprite-index-exporter](https://github.com/mikeemm/aseprite-index-exporter/tree/master).
+If you don't want to use spritesheets check out [aseprite-index-exporter](https://github.com/mikeemm/aseprite-index-exporter/tree/master).
