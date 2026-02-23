@@ -1,0 +1,1 @@
+# aseprite-indexed-spritesheet-exporter
